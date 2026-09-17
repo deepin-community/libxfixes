@@ -1,12 +1,8 @@
-libxfixes (1:6.0.0-2) unstable; urgency=medium
+libxfixes (1:6.0.0-1) UNRELEASED; urgency=medium
 
-  [ Debian X Strike Force ]
   * update
 
-  [ tunaichao ]
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 16:54:24 +0800
+ -- Debian X Strike Force <debian-x@lists.debian.org>  Thu, 07 Jul 2022 09:58:50 +0800
 
 libxfixes (1:6.0.0-1) unstable; urgency=medium
 
